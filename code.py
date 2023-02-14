@@ -1,4 +1,4 @@
-# License : GPLv2.0
+# License : GPLv2.0 hola
 # copyright (c) 2021  Dave Bailey
 # Author: Dave Bailey (dbisu, @daveisu)
 # Adapted by: Quino Bosch (quiboco)
